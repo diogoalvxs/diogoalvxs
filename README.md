@@ -4,4 +4,4 @@ Sou um jovem estudante apaixonado pelo universo da programação e tecnologia, e
 
 
 🧰<B>Linguagens de programação e ferramentas</B>
-<img align="left" alt="Linux" width="30ox" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/icons/linux/linux-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/icons/linux/linux-original.svg"/>
