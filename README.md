@@ -16,4 +16,5 @@ Sou apaixonado pelo universo da programação e tecnologia, em busca contínua d
 #
 <details>
   <summary><h3>👨‍💻A minha jornada na programação</h3></summary>
+  Conheci o mundo da programação no curso profissional técnico de mulitmédia. No curso aprendi sobre desenvolvimento web, lógica de programação e os principais conceitos, apaixonei-me logo de cara. A partir daí comecei os meus estudos de forma independente. Nesse percurso aprendi sobre front-end, brack-end, automatização, como criar interfaces visuais envolventes e explorando a arte de construir robustos sistemas de apoio por trás das cortinas digitais. Foi também nessa mesma altura em que aprendi o que era e como funciona o mundo Linux e descobri uma outra paixão minha, a cibersegurança. O meu foco é evoluir em ambas as áreas e tornar-me um profissional.
 </details>
