@@ -8,9 +8,7 @@
 ###
 
 <p align="left">
-  - 🔭 Atualmente atuando como <strong>Software Developer</strong><br>
-  - 📚 Estudando <strong>Django</strong><br>
-  - ⚡ No meu tempo livre, gosto de aprender sobre <strong>IoT</strong>
+  - 🔭 Atualmente a atuar na área da <strong>Automação</strong><br>
 </p>
 
 ###
